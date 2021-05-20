@@ -1,4 +1,4 @@
-module ayah-util
+module github.com/ayah-go/go-util
 
 go 1.16
 
