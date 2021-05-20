@@ -1,4 +1,4 @@
-module "go-util"
+module ayah-go/go-util
 
 go 1.16
 
