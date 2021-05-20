@@ -1,4 +1,4 @@
-module ayah-go/go-util
+module ayah-util
 
 go 1.16
 
@@ -10,7 +10,6 @@ require (
 	github.com/jinzhu/copier v0.3.0
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/stretchr/testify v1.7.0
-	github.com/swaggo/gin-swagger v1.3.0
 	go.uber.org/zap v1.16.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 )
