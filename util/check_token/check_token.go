@@ -1,11 +1,11 @@
 package check_token
 
 import (
+	"github.com/ayah-go/go-util/e"
+	"github.com/ayah-go/go-util/util/ast"
+	"github.com/ayah-go/go-util/util/logger"
+	"github.com/ayah-go/go-util/util/response"
 	"github.com/gin-gonic/gin"
-	"go-util/e"
-	"go-util/util/ast"
-	"go-util/util/logger"
-	"go-util/util/response"
 )
 
 var (
