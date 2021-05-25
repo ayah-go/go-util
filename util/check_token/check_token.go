@@ -1,10 +1,10 @@
 package check_token
 
 import (
-	"github.com/ayah-go/go-util/e"
-	"github.com/ayah-go/go-util/util/ast"
-	"github.com/ayah-go/go-util/util/logger"
-	"github.com/ayah-go/go-util/util/response"
+	"gitee.com/ayah-go/go-util/e"
+	"gitee.com/ayah-go/go-util/util/ast"
+	"gitee.com/ayah-go/go-util/util/logger"
+	"gitee.com/ayah-go/go-util/util/response"
 	"github.com/gin-gonic/gin"
 )
 
