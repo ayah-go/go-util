@@ -1,8 +1,8 @@
 package response
 
 import (
+	"github.com/ayah-go/go-util/e"
 	"github.com/gin-gonic/gin"
-	"go-util/e"
 	"net/http"
 )
 
